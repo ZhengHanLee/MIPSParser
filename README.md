@@ -1,5 +1,5 @@
 # MIPSParser
-The MIPS32 Assembly Parser is a C library that provides a function to parse MIPS32 assembly instructions. It is designed to break down the given MIPS32 assembly instruction and create a ParseResult object storing information about that instruction.
+The MIPS Parser is a C program that provides a function to parse MIPS32 assembly instructions. It is designed to break down the given MIPS32 assembly instruction and create a ParseResult object storing information about that instruction.
 
     ASMParser.h: Header file containing function prototypes and structure definitions.
     OpTable.h: Header file with information about MIPS32 instructions and their opcodes.
